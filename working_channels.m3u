@@ -1,0 +1,151 @@
+#EXTM3U url-tvg="http://127.0.0.1:8765/guide.xml.gz"
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-chno="1" tvg-logo="http://127.0.0.1:8765/logos/ch_001.png" group-title="UK",UK | BBC One HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-chno="2" tvg-logo="http://127.0.0.1:8765/logos/ch_002.png" group-title="UK",UK | BBC Two HD
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="BBCThree.uk" tvg-chno="3" tvg-logo="http://127.0.0.1:8765/logos/ch_003.png" group-title="UK",UK | BBC Three HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-chno="4" tvg-logo="http://127.0.0.1:8765/logos/ch_004.png" group-title="UK",UK | BBC Four HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="BBCScotland.uk" tvg-chno="5" tvg-logo="http://127.0.0.1:8765/logos/ch_005.png" group-title="UK",UK | BBC Scotland HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCAlba.uk" tvg-chno="6" tvg-logo="http://127.0.0.1:8765/logos/ch_006.png" group-title="UK",UK | BBC Alba
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="S4C.uk" tvg-chno="7" tvg-logo="http://127.0.0.1:8765/logos/ch_007.png" group-title="UK",UK | S4C HD
+https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-chno="8" tvg-logo="http://127.0.0.1:8765/logos/ch_008.png" group-title="UK",UK | BBC News HD
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-chno="9" tvg-logo="http://127.0.0.1:8765/logos/ch_009.png" group-title="UK",UK | BBC Parliament
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-chno="10" tvg-logo="http://127.0.0.1:8765/logos/ch_010.png" group-title="UK",UK | GB News HD
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+#EXTINF:-1 tvg-id="TalkTV.uk" tvg-chno="11" tvg-logo="http://127.0.0.1:8765/logos/ch_011.png" group-title="UK",UK | TalkTV
+https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfVGFsa19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBCUK.uk@SD" tvg-chno="12" tvg-logo="http://127.0.0.1:8765/logos/ch_012.png" group-title="UK",UK | CNBC UK
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GreatMovies.uk" tvg-chno="13" tvg-logo="http://127.0.0.1:8765/logos/ch_013.png" group-title="UK",UK | GREAT! Movies
+https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="GreatRomance.uk" tvg-chno="14" tvg-logo="http://127.0.0.1:8765/logos/ch_014.png" group-title="UK",UK | GREAT! Romance
+https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueCrime.uk" tvg-chno="15" tvg-logo="http://127.0.0.1:8765/logos/ch_015.png" group-title="UK",UK | True Crime UK
+https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="TopGear.uk@SD" tvg-chno="16" tvg-logo="http://127.0.0.1:8765/logos/ch_016.png" group-title="UK",UK | Top Gear
+https://jmp2.uk/plu-636adc255bcf470007d6e0e2.m3u8
+#EXTINF:-1 tvg-id="TheGrahamNortonShow.uk@SD" tvg-chno="17" tvg-logo="http://127.0.0.1:8765/logos/ch_017.png" group-title="UK",UK | The Graham Norton Show
+https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MrBeanLiveAction.uk@SD" tvg-chno="18" tvg-logo="http://127.0.0.1:8765/logos/ch_018.png" group-title="UK",UK | Mr Bean Live Action
+https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HistoryHit.uk@SD" tvg-chno="19" tvg-logo="http://127.0.0.1:8765/logos/ch_019.png" group-title="UK",UK | History Hit
+https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-chno="20" tvg-logo="http://127.0.0.1:8765/logos/ch_020.png" group-title="UK",UK | CBBC HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-chno="21" tvg-logo="http://127.0.0.1:8765/logos/ch_021.png" group-title="UK",UK | CBeebies HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="MUTV.uk@SD" tvg-chno="22" tvg-logo="http://127.0.0.1:8765/logos/ch_022.png" group-title="UK",UK | MUTV
+https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="talkSPORT.uk@SD" tvg-chno="23" tvg-logo="http://127.0.0.1:8765/logos/ch_023.png" group-title="UK",UK | talkSPORT
+https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCRadio1.uk" tvg-chno="24" tvg-logo="http://127.0.0.1:8765/logos/ch_024.png" group-title="UK",UK | BBC Radio 1
+https://lsn.lv/bbcradio.m3u8?station=bbc_radio_one&bitrate=320000
+#EXTINF:-1 tvg-id="BBCRadio2.uk" tvg-chno="25" tvg-logo="http://127.0.0.1:8765/logos/ch_025.png" group-title="UK",UK | BBC Radio 2
+https://lsn.lv/bbcradio.m3u8?station=bbc_radio_two&bitrate=320000
+#EXTINF:-1 tvg-id="BBCRadio4.uk" tvg-chno="26" tvg-logo="http://127.0.0.1:8765/logos/ch_026.png" group-title="UK",UK | BBC Radio 4
+https://lsn.lv/bbcradio.m3u8?station=bbc_radio_fourfm&bitrate=320000
+#EXTINF:-1 tvg-id="BBCRadio5L.uk" tvg-chno="27" tvg-logo="http://127.0.0.1:8765/logos/ch_027.png" group-title="UK",UK | BBC Radio 5 Live
+https://lsn.lv/bbcradio.m3u8?station=bbc_radio_five_live&bitrate=320000
+#EXTINF:-1 tvg-id="BBCWorldSvc.uk" tvg-chno="28" tvg-logo="http://127.0.0.1:8765/logos/ch_028.png" group-title="UK",UK | BBC World Service
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
+#EXTINF:-1 tvg-id="InooroTV.ke" tvg-chno="29" tvg-logo="http://127.0.0.1:8765/logos/ch_029.png" group-title="Kenya & East Africa",Kenya & East Africa | Inooro TV
+https://live-onesignal.royalmedia.co.ke/live/T-MxRsFebq6zx7k2QFMbLw.m3u8
+#EXTINF:-1 tvg-id="RamogiTV.ke" tvg-chno="30" tvg-logo="http://127.0.0.1:8765/logos/ch_030.png" group-title="Kenya & East Africa",Kenya & East Africa | Ramogi TV
+https://live-onesignal.royalmedia.co.ke/live/-gEXRHc6nSl5aFegh5MrOg.m3u8
+#EXTINF:-1 tvg-id="AkiliKids.ke" tvg-chno="31" tvg-logo="http://127.0.0.1:8765/logos/ch_031.png" group-title="Kenya & East Africa",Kenya & East Africa | Akili Kids!
+https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Hot96FM.ke" tvg-chno="32" tvg-logo="http://127.0.0.1:8765/logos/ch_032.png" group-title="Kenya & East Africa",Kenya & East Africa | Hot 96 FM Kenya Live
+https://live-onesignal.royalmedia.co.ke/live/ty433JP83wptF-PonHcY6w.m3u8
+#EXTINF:-1 tvg-id="MorningCloudTV.ke" tvg-chno="33" tvg-logo="http://127.0.0.1:8765/logos/ch_033.png" group-title="Kenya & East Africa",Kenya & East Africa | Morning Cloud TV
+https://livecdn.live247stream.com/mc/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CapuchinTV.ke" tvg-chno="34" tvg-logo="http://127.0.0.1:8765/logos/ch_034.png" group-title="Kenya & East Africa",Kenya & East Africa | Capuchin TV
+https://goliveafrica.media:9998/live/64227f58b8413/index.m3u8
+#EXTINF:-1 tvg-id="GreatCommissionTV.ke" tvg-chno="35" tvg-logo="http://127.0.0.1:8765/logos/ch_035.png" group-title="Kenya & East Africa",Kenya & East Africa | Great Commission TV
+https://stream-server9-jupiter.muxlive.com/hls/gctvghana/index.m3u8
+#EXTINF:-1 tvg-id="YOUNIBMediaTV.ke" tvg-chno="36" tvg-logo="http://127.0.0.1:8765/logos/ch_036.png" group-title="Kenya & East Africa",Kenya & East Africa | YOUNIB Media TV
+https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8
+#EXTINF:-1 tvg-id="WanLuoTV.ug" tvg-chno="37" tvg-logo="http://127.0.0.1:8765/logos/ch_037.png" group-title="Kenya & East Africa",Kenya & East Africa | Wan Luo TV
+https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8
+#EXTINF:-1 tvg-id="TBC2.tz" tvg-chno="38" tvg-logo="http://127.0.0.1:8765/logos/ch_038.png" group-title="Kenya & East Africa",Kenya & East Africa | TBC 2 Tanzania
+https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_44ed95e05b6d11f18d5d85805abbdd6f/index.m3u8
+#EXTINF:-1 tvg-id="BukeddeTV1.ug" tvg-chno="39" tvg-logo="http://127.0.0.1:8765/logos/ch_039.png" group-title="Kenya & East Africa",Kenya & East Africa | Bukedde TV 1 Uganda
+https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8
+#EXTINF:-1 tvg-id="BukeddeTV2.ug" tvg-chno="40" tvg-logo="http://127.0.0.1:8765/logos/ch_040.png" group-title="Kenya & East Africa",Kenya & East Africa | Bukedde TV 2 Uganda
+https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8
+#EXTINF:-1 tvg-id="TVWest.ug" tvg-chno="41" tvg-logo="http://127.0.0.1:8765/logos/ch_041.png" group-title="Kenya & East Africa",Kenya & East Africa | TV West Uganda
+https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8
+#EXTINF:-1 tvg-id="RwandaTV.ke" tvg-chno="42" tvg-logo="http://127.0.0.1:8765/logos/ch_042.png" group-title="Kenya & East Africa",Kenya & East Africa | Rwanda TV (RTV)
+http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8
+#EXTINF:-1 tvg-id="TV1.rw" tvg-chno="43" tvg-logo="http://127.0.0.1:8765/logos/ch_043.png" group-title="Kenya & East Africa",Kenya & East Africa | TV1 Rwanda
+https://live.tv1.rw/index.m3u8
+#EXTINF:-1 tvg-id="TV10.ke" tvg-chno="44" tvg-logo="http://127.0.0.1:8765/logos/ch_044.png" group-title="Kenya & East Africa",Kenya & East Africa | TV10 Rwanda
+https://5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceMziki.fr@SD" tvg-chno="45" tvg-logo="http://127.0.0.1:8765/logos/ch_045.png" group-title="Kenya & East Africa",Kenya & East Africa | Trace Mziki East Africa
+https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8
+#EXTINF:-1 tvg-id="AfricanewsEnglish.fr@SD" tvg-chno="46" tvg-logo="http://127.0.0.1:8765/logos/ch_046.png" group-title="Kenya & East Africa",Kenya & East Africa | Africanews English
+https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
+#EXTINF:-1 tvg-id="SABCNews.za@SD" tvg-chno="47" tvg-logo="http://127.0.0.1:8765/logos/ch_047.png" group-title="Kenya & East Africa",Kenya & East Africa | SABC News
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za@SD" tvg-chno="48" tvg-logo="http://127.0.0.1:8765/logos/ch_048.png" group-title="Kenya & East Africa",Kenya & East Africa | WildEarth
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-chno="49" tvg-logo="http://127.0.0.1:8765/logos/ch_049.png" group-title="International",International | Al Jazeera English
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us@US" tvg-chno="50" tvg-logo="http://127.0.0.1:8765/logos/ch_050.png" group-title="International",International | Bloomberg TV
+http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca@SD" tvg-chno="51" tvg-logo="http://127.0.0.1:8765/logos/ch_051.png" group-title="International",International | CBC News Network
+https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
+#EXTINF:-1 tvg-id="CNAInternational.sg@SD" tvg-chno="52" tvg-logo="http://127.0.0.1:8765/logos/ch_052.png" group-title="International",International | CNA International
+https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8
+#EXTINF:-1 tvg-id="DW.de@English" tvg-chno="53" tvg-logo="http://127.0.0.1:8765/logos/ch_053.png" group-title="International",International | DW English
+https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" tvg-chno="54" tvg-logo="http://127.0.0.1:8765/logos/ch_054.png" group-title="International",International | Euronews English HD
+https://dash4.antik.sk/live/test_euronews/playlist.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English" tvg-chno="55" tvg-logo="http://127.0.0.1:8765/logos/ch_055.png" group-title="International",International | France 24 English
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr@SD" tvg-chno="56" tvg-logo="http://127.0.0.1:8765/logos/ch_056.png" group-title="International",International | TRT World
+https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-chno="57" tvg-logo="http://127.0.0.1:8765/logos/ch_057.png" group-title="International",International | NHK World-Japan
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 tvg-id="WION.in@SD" tvg-chno="58" tvg-logo="http://127.0.0.1:8765/logos/ch_058.png" group-title="International",International | WION
+http://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20c3c0d9-0256-43fe-bca6-70fdd490b957/main.m3u8
+#EXTINF:-1 tvg-id="ESPN.us@HD" tvg-chno="59" tvg-logo="http://127.0.0.1:8765/logos/ch_059.png" group-title="International",International | ESPN HD
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us@HD" tvg-chno="60" tvg-logo="http://127.0.0.1:8765/logos/ch_060.png" group-title="International",International | ESPN 2 HD
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us@HD" tvg-chno="61" tvg-logo="http://127.0.0.1:8765/logos/ch_061.png" group-title="International",International | ESPNU HD
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us@SD" tvg-chno="62" tvg-logo="http://127.0.0.1:8765/logos/ch_062.png" group-title="International",International | Fubo Sports Network
+https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us@SD" tvg-chno="63" tvg-logo="http://127.0.0.1:8765/logos/ch_063.png" group-title="International",International | Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="CricketGold.au@SD" tvg-chno="64" tvg-logo="http://127.0.0.1:8765/logos/ch_064.png" group-title="International",International | Cricket Gold
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
+#EXTINF:-1 tvg-id="HBO.us@East" tvg-chno="65" tvg-logo="http://127.0.0.1:8765/logos/ch_065.png" group-title="International",International | HBO
+http://tvsen7.aynascope.net/hbo/index.m3u8
+#EXTINF:-1 tvg-id="HBOHits.us@East" tvg-chno="66" tvg-logo="http://127.0.0.1:8765/logos/ch_066.png" group-title="International",International | HBO Hits
+http://tvsen7.aynascope.net/hbo2/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax.us@West" tvg-chno="67" tvg-logo="http://127.0.0.1:8765/logos/ch_067.png" group-title="International",International | Cinemax West
+http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
+#EXTINF:-1 tvg-id="AE.us@East" tvg-chno="68" tvg-logo="http://127.0.0.1:8765/logos/ch_068.png" group-title="International",International | A&E
+http://23.239.31.26:8989/aande/index.m3u8
+#EXTINF:-1 tvg-id="CourtTV.us@SD" tvg-chno="69" tvg-logo="http://127.0.0.1:8765/logos/ch_069.png" group-title="International",International | Court TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.us@HDEast" tvg-chno="70" tvg-logo="http://127.0.0.1:8765/logos/ch_070.png" group-title="International",International | National Geographic HD East
+http://198.58.104.90:8989/natgeo/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.us@HDEast" tvg-chno="71" tvg-logo="http://127.0.0.1:8765/logos/ch_071.png" group-title="International",International | National Geographic Wild HD East
+http://198.58.104.90:8989/natgeowild/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.us@East" tvg-chno="72" tvg-logo="http://127.0.0.1:8765/logos/ch_072.png" group-title="International",International | Animal Planet
+http://23.239.31.26:8989/animalplanet/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.us@East" tvg-chno="73" tvg-logo="http://127.0.0.1:8765/logos/ch_073.png" group-title="International",International | Cartoon Network
+http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonGlobal.uk@SD" tvg-chno="74" tvg-logo="http://127.0.0.1:8765/logos/ch_074.png" group-title="International",International | Nickelodeon Global
+http://103.151.60.162:2122/play/a017/index.m3u8?hls
+#EXTINF:-1 tvg-id="MTVLive.us@SD" tvg-chno="75" tvg-logo="http://127.0.0.1:8765/logos/ch_075.png" group-title="International",International | MTV Live
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8

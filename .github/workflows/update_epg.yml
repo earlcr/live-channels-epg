@@ -1,0 +1,37 @@
+name: Update EPG Daily
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run EPG Updater
+        run: |
+          python scripts/update_epg.py
+
+      - name: Commit and push updated guide
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add guide.xml.gz
+          if git diff --staged --quiet; then
+            echo "No changes in EPG data."
+          else
+            git commit -m "chore(epg): automated daily guide update [skip ci]"
+            git push
+          fi
